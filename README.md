@@ -8,6 +8,8 @@ Based on "Claude Dev Keeps On Getting Better. The Best AI Coding Assistant?" at 
 
 Based on "Claude Dev on Github" at https://github.com/saoudrizwan/claude-dev
 
+Based on "Claude Dev: Build Web Apps Without Writing A Single Code" at https://www.zeniteq.com/blog/claude-dev-build-web-apps-without-writing-a-single-code
+
 Download VS Code extension from https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev
 
 Join the Discord Channel at https://discord.gg/claudedev
