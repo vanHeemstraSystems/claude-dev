@@ -7,6 +7,8 @@ Based on "Claude Dev Keeps On Getting Better. The Best AI Coding Assistant?" at 
 
 Based on "Claude Dev on Github" at https://github.com/saoudrizwan/claude-dev
 
+Download VS Code extension from https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
