@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+claude-dev
+# Claude Dev
 
-Based on "ABC" at https://www.abc.com/
+> Claude Dev: an AI Coding Assistant
+
+Based on "Claude Dev Keeps On Getting Better. The Best AI Coding Assistant?" at https://www.youtube.com/watch?v=WsMzvJ8Yo4U
 
 ## 100 - Introduction
 
