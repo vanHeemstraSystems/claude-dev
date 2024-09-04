@@ -6,7 +6,7 @@ If you are a developer and are interested in the source code, check out the open
 
 To install Claude Dev, follow these steps:
 
-Clone the repository:
+1. Clone the repository:
 
 ```
 $ git clone https://github.com/saoudrizwan/claude-dev.git
