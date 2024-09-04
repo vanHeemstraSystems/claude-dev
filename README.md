@@ -1,7 +1,7 @@
 claude-dev
 # Claude Dev
 
-> Claude Dev: an AI Coding Assistant
+> Claude Dev: an AI Coding Assistant<br/>
 > Claude Dev provides a human-in-the-loop GUI to supervise every file changed and command executed, providing a safe and accessible way to explore the potential of agentic AI.
 
 Based on "Claude Dev Keeps On Getting Better. The Best AI Coding Assistant?" at https://www.youtube.com/watch?v=WsMzvJ8Yo4U
